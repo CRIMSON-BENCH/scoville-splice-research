@@ -1,0 +1,11 @@
+Product,Name,Target SHU,Capsaicin %,Dihydro %,Nordihydro %,Homodihydro %,Nonivamide %,Total mg/g,Wt. TRPV1 (kcal/mol),Onset (1-10),Duration (1-10),Burn profile
+01,Verbal Warning,3000000,40.0,30.0,15.0,10.0,5.0,223.5,-6.74,6.0,5.0,"Slow-building, deep body burn with radiating chest heat"
+02,Kill Switch,3600000,43.9,27.6,13.6,9.2,5.8,264.2,-6.78,6.3,4.7,"Slow-building, deep body burn with radiating chest heat"
+03,Hostile Agent,4300000,47.8,25.1,12.1,8.4,6.6,311.4,-6.81,6.6,4.4,"Slow-building, deep body burn with radiating chest heat"
+04,Containment Breach,5100000,51.6,22.7,10.7,7.7,7.3,364.5,-6.84,6.9,4.1,Aggressive mid-mouth assault — hits everywhere simultaneously
+05,System Shock,6000000,55.6,20.2,9.2,6.9,8.1,422.9,-6.88,7.2,3.8,Aggressive mid-mouth assault — hits everywhere simultaneously
+06,Venom Protocol,7000000,59.4,17.8,7.8,6.1,8.9,486.9,-6.92,7.5,3.5,Aggressive mid-mouth assault — hits everywhere simultaneously
+07,Level 4 Pathogen,8200000,63.4,15.3,6.3,5.3,9.7,562.7,-6.95,7.9,3.1,"Instantaneous sinus-stripping strike — no ramp, maximum front-load"
+08,Collateral Damage,9500000,67.2,12.9,4.9,4.6,10.4,643.9,-6.99,8.2,2.8,"Instantaneous sinus-stripping strike — no ramp, maximum front-load"
+09,Extinction Protocol,11000000,71.2,10.4,3.4,3.8,11.2,735.7,-7.03,8.5,2.5,"Instantaneous sinus-stripping strike — no ramp, maximum front-load"
+10,D.N.R. (Do Not Resuscitate),13000000,75.0,8.0,2.0,3.0,12.0,858.7,-7.06,8.8,2.2,"Instantaneous sinus-stripping strike — no ramp, maximum front-load"

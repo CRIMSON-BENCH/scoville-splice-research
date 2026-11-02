@@ -1,0 +1,14 @@
+{
+  "frames": 178,
+  "duration_ns": 9.05,
+  "temp_mean_K": 300.3,
+  "temp_std_K": 3.2,
+  "PE_mean_kJ": -39844.0,
+  "PE_std_kJ": 289.0,
+  "TE_mean_kJ": -18242.0,
+  "TE_std_kJ": 407.0,
+  "speed_ns_day": 69.1,
+  "platform": "OpenCL (NVIDIA L4)",
+  "solvent": "implicit GBn2",
+  "timestep_fs": 4
+}

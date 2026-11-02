@@ -1,0 +1,1 @@
+pun1_md_traj.dcd (28 MB) — available on HuggingFace: https://huggingface.co/datasets/scovillesplice/scoville-splice-capsaicinoid-data/blob/main/data/md/pun1_md_traj.dcd

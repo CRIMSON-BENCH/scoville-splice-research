@@ -1,0 +1,302 @@
+[
+  {
+    "product_num": "01",
+    "product_name": "Verbal Warning",
+    "target_shu": 3000000,
+    "vibe": "A sharp sting \u2014 playing with fire",
+    "blend_pct": {
+      "capsaicin": 40.0,
+      "dihydrocapsaicin": 30.0,
+      "nordihydrocapsaicin": 15.0,
+      "homodihydrocapsaicin": 10.0,
+      "nonivamide": 5.0
+    },
+    "blend_frac": {
+      "capsaicin": 0.4,
+      "dihydrocapsaicin": 0.3,
+      "nordihydrocapsaicin": 0.15,
+      "homodihydrocapsaicin": 0.1,
+      "nonivamide": 0.05
+    },
+    "effective_potency": 0.839,
+    "total_capsaicinoid_mg_g": 223.5,
+    "weighted_trpv1_affinity_kcal": -6.74,
+    "onset_speed_score": 6.0,
+    "duration_score": 5.0,
+    "onset_description": "delayed 3-5 seconds",
+    "peak_description": "broad, sustained plateau",
+    "burn_profile": "Slow-building, deep body burn with radiating chest heat",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "02",
+    "product_name": "Kill Switch",
+    "target_shu": 3600000,
+    "vibe": "Sudden shutdown \u2014 no warning, no warmup",
+    "blend_pct": {
+      "capsaicin": 43.9,
+      "dihydrocapsaicin": 27.6,
+      "nordihydrocapsaicin": 13.6,
+      "homodihydrocapsaicin": 9.2,
+      "nonivamide": 5.8
+    },
+    "blend_frac": {
+      "capsaicin": 0.439,
+      "dihydrocapsaicin": 0.276,
+      "nordihydrocapsaicin": 0.136,
+      "homodihydrocapsaicin": 0.092,
+      "nonivamide": 0.058
+    },
+    "effective_potency": 0.852,
+    "total_capsaicinoid_mg_g": 264.2,
+    "weighted_trpv1_affinity_kcal": -6.78,
+    "onset_speed_score": 6.3,
+    "duration_score": 4.7,
+    "onset_description": "delayed 3-5 seconds",
+    "peak_description": "broad, sustained plateau",
+    "burn_profile": "Slow-building, deep body burn with radiating chest heat",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "03",
+    "product_name": "Hostile Agent",
+    "target_shu": 4300000,
+    "vibe": "The capsaicin fights back",
+    "blend_pct": {
+      "capsaicin": 47.8,
+      "dihydrocapsaicin": 25.1,
+      "nordihydrocapsaicin": 12.1,
+      "homodihydrocapsaicin": 8.4,
+      "nonivamide": 6.6
+    },
+    "blend_frac": {
+      "capsaicin": 0.478,
+      "dihydrocapsaicin": 0.251,
+      "nordihydrocapsaicin": 0.121,
+      "homodihydrocapsaicin": 0.084,
+      "nonivamide": 0.066
+    },
+    "effective_potency": 0.863,
+    "total_capsaicinoid_mg_g": 311.4,
+    "weighted_trpv1_affinity_kcal": -6.81,
+    "onset_speed_score": 6.6,
+    "duration_score": 4.4,
+    "onset_description": "delayed 3-5 seconds",
+    "peak_description": "broad, sustained plateau",
+    "burn_profile": "Slow-building, deep body burn with radiating chest heat",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "04",
+    "product_name": "Containment Breach",
+    "target_shu": 5100000,
+    "vibe": "Escapes the mouth \u2014 hits sinuses and chest",
+    "blend_pct": {
+      "capsaicin": 51.6,
+      "dihydrocapsaicin": 22.7,
+      "nordihydrocapsaicin": 10.7,
+      "homodihydrocapsaicin": 7.7,
+      "nonivamide": 7.3
+    },
+    "blend_frac": {
+      "capsaicin": 0.516,
+      "dihydrocapsaicin": 0.227,
+      "nordihydrocapsaicin": 0.107,
+      "homodihydrocapsaicin": 0.077,
+      "nonivamide": 0.073
+    },
+    "effective_potency": 0.874,
+    "total_capsaicinoid_mg_g": 364.5,
+    "weighted_trpv1_affinity_kcal": -6.84,
+    "onset_speed_score": 6.9,
+    "duration_score": 4.1,
+    "onset_description": "moderate 1-3 seconds",
+    "peak_description": "sharp spike with sustained tail",
+    "burn_profile": "Aggressive mid-mouth assault \u2014 hits everywhere simultaneously",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "05",
+    "product_name": "System Shock",
+    "target_shu": 6000000,
+    "vibe": "Adrenaline + endorphin flood",
+    "blend_pct": {
+      "capsaicin": 55.6,
+      "dihydrocapsaicin": 20.2,
+      "nordihydrocapsaicin": 9.2,
+      "homodihydrocapsaicin": 6.9,
+      "nonivamide": 8.1
+    },
+    "blend_frac": {
+      "capsaicin": 0.556,
+      "dihydrocapsaicin": 0.202,
+      "nordihydrocapsaicin": 0.092,
+      "homodihydrocapsaicin": 0.069,
+      "nonivamide": 0.081
+    },
+    "effective_potency": 0.887,
+    "total_capsaicinoid_mg_g": 422.9,
+    "weighted_trpv1_affinity_kcal": -6.88,
+    "onset_speed_score": 7.2,
+    "duration_score": 3.8,
+    "onset_description": "moderate 1-3 seconds",
+    "peak_description": "sharp spike with sustained tail",
+    "burn_profile": "Aggressive mid-mouth assault \u2014 hits everywhere simultaneously",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "06",
+    "product_name": "Venom Protocol",
+    "target_shu": 7000000,
+    "vibe": "Systematic biological attack",
+    "blend_pct": {
+      "capsaicin": 59.4,
+      "dihydrocapsaicin": 17.8,
+      "nordihydrocapsaicin": 7.8,
+      "homodihydrocapsaicin": 6.1,
+      "nonivamide": 8.9
+    },
+    "blend_frac": {
+      "capsaicin": 0.594,
+      "dihydrocapsaicin": 0.178,
+      "nordihydrocapsaicin": 0.078,
+      "homodihydrocapsaicin": 0.061,
+      "nonivamide": 0.089
+    },
+    "effective_potency": 0.898,
+    "total_capsaicinoid_mg_g": 486.9,
+    "weighted_trpv1_affinity_kcal": -6.92,
+    "onset_speed_score": 7.5,
+    "duration_score": 3.5,
+    "onset_description": "moderate 1-3 seconds",
+    "peak_description": "sharp spike with sustained tail",
+    "burn_profile": "Aggressive mid-mouth assault \u2014 hits everywhere simultaneously",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "07",
+    "product_name": "Level 4 Pathogen",
+    "target_shu": 8200000,
+    "vibe": "Laboratory-grade biohazard",
+    "blend_pct": {
+      "capsaicin": 63.4,
+      "dihydrocapsaicin": 15.3,
+      "nordihydrocapsaicin": 6.3,
+      "homodihydrocapsaicin": 5.3,
+      "nonivamide": 9.7
+    },
+    "blend_frac": {
+      "capsaicin": 0.634,
+      "dihydrocapsaicin": 0.153,
+      "nordihydrocapsaicin": 0.063,
+      "homodihydrocapsaicin": 0.053,
+      "nonivamide": 0.097
+    },
+    "effective_potency": 0.911,
+    "total_capsaicinoid_mg_g": 562.7,
+    "weighted_trpv1_affinity_kcal": -6.95,
+    "onset_speed_score": 7.9,
+    "duration_score": 3.1,
+    "onset_description": "sub-second",
+    "peak_description": "violent spike, overwhelming peak",
+    "burn_profile": "Instantaneous sinus-stripping strike \u2014 no ramp, maximum front-load",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "08",
+    "product_name": "Collateral Damage",
+    "target_shu": 9500000,
+    "vibe": "Ruins your day, your gut, and your ego",
+    "blend_pct": {
+      "capsaicin": 67.2,
+      "dihydrocapsaicin": 12.9,
+      "nordihydrocapsaicin": 4.9,
+      "homodihydrocapsaicin": 4.6,
+      "nonivamide": 10.4
+    },
+    "blend_frac": {
+      "capsaicin": 0.672,
+      "dihydrocapsaicin": 0.129,
+      "nordihydrocapsaicin": 0.049,
+      "homodihydrocapsaicin": 0.046,
+      "nonivamide": 0.104
+    },
+    "effective_potency": 0.922,
+    "total_capsaicinoid_mg_g": 643.9,
+    "weighted_trpv1_affinity_kcal": -6.99,
+    "onset_speed_score": 8.2,
+    "duration_score": 2.8,
+    "onset_description": "sub-second",
+    "peak_description": "violent spike, overwhelming peak",
+    "burn_profile": "Instantaneous sinus-stripping strike \u2014 no ramp, maximum front-load",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "dihydrocapsaicin"
+  },
+  {
+    "product_num": "09",
+    "product_name": "Extinction Protocol",
+    "target_shu": 11000000,
+    "vibe": "World-ending, sensory-wiping",
+    "blend_pct": {
+      "capsaicin": 71.2,
+      "dihydrocapsaicin": 10.4,
+      "nordihydrocapsaicin": 3.4,
+      "homodihydrocapsaicin": 3.8,
+      "nonivamide": 11.2
+    },
+    "blend_frac": {
+      "capsaicin": 0.712,
+      "dihydrocapsaicin": 0.104,
+      "nordihydrocapsaicin": 0.034,
+      "homodihydrocapsaicin": 0.038,
+      "nonivamide": 0.112
+    },
+    "effective_potency": 0.934,
+    "total_capsaicinoid_mg_g": 735.7,
+    "weighted_trpv1_affinity_kcal": -7.03,
+    "onset_speed_score": 8.5,
+    "duration_score": 2.5,
+    "onset_description": "sub-second",
+    "peak_description": "violent spike, overwhelming peak",
+    "burn_profile": "Instantaneous sinus-stripping strike \u2014 no ramp, maximum front-load",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "nonivamide"
+  },
+  {
+    "product_num": "10",
+    "product_name": "D.N.R. (Do Not Resuscitate)",
+    "target_shu": 13000000,
+    "vibe": "The absolute limit of human endurance",
+    "blend_pct": {
+      "capsaicin": 75.0,
+      "dihydrocapsaicin": 8.0,
+      "nordihydrocapsaicin": 2.0,
+      "homodihydrocapsaicin": 3.0,
+      "nonivamide": 12.0
+    },
+    "blend_frac": {
+      "capsaicin": 0.75,
+      "dihydrocapsaicin": 0.08,
+      "nordihydrocapsaicin": 0.02,
+      "homodihydrocapsaicin": 0.03,
+      "nonivamide": 0.12
+    },
+    "effective_potency": 0.946,
+    "total_capsaicinoid_mg_g": 858.7,
+    "weighted_trpv1_affinity_kcal": -7.06,
+    "onset_speed_score": 8.8,
+    "duration_score": 2.2,
+    "onset_description": "sub-second",
+    "peak_description": "violent spike, overwhelming peak",
+    "burn_profile": "Instantaneous sinus-stripping strike \u2014 no ramp, maximum front-load",
+    "dominant_capsaicinoid": "capsaicin",
+    "secondary_capsaicinoid": "nonivamide"
+  }
+]

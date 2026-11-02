@@ -1,0 +1,650 @@
+{
+  "platform": "Scoville Splice \u2014 Capsaicin Design Platform",
+  "version": "1.0",
+  "date": "2026-10-09",
+  "products": [
+    {
+      "product_num": "01",
+      "product_name": "Verbal Warning",
+      "target_shu": 3000000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_01",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "02",
+      "product_name": "Kill Switch",
+      "target_shu": 3600000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_02",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "03",
+      "product_name": "Hostile Agent",
+      "target_shu": 4300000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_03",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "04",
+      "product_name": "Containment Breach",
+      "target_shu": 5100000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_04",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "05",
+      "product_name": "System Shock",
+      "target_shu": 6000000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_05",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        },
+        {
+          "name": "35S::PAL_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 942,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "PAL coding sequence",
+              "length": 261
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "06",
+      "product_name": "Venom Protocol",
+      "target_shu": 7000000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_06",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        },
+        {
+          "name": "35S::PAL_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 942,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "PAL coding sequence",
+              "length": 261
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        },
+        {
+          "name": "35S::Pun1_S39L_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1797,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "Pun1_S39L coding sequence",
+              "length": 1116
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": "S39L (ESM2 LLR 2.828)"
+        }
+      ]
+    },
+    {
+      "product_num": "07",
+      "product_name": "Level 4 Pathogen",
+      "target_shu": 8200000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_07",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        },
+        {
+          "name": "35S::PAL_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 942,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "PAL coding sequence",
+              "length": 261
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        },
+        {
+          "name": "35S::Pun1_S39L_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1797,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "Pun1_S39L coding sequence",
+              "length": 1116
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": "S39L (ESM2 LLR 2.828)"
+        },
+        {
+          "name": "35S::COMT_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1761,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "COMT coding sequence",
+              "length": 1080
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "08",
+      "product_name": "Collateral Damage",
+      "target_shu": 9500000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_08",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        },
+        {
+          "name": "35S::PAL_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 942,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "PAL coding sequence",
+              "length": 261
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        },
+        {
+          "name": "35S::Pun1_S39L_L345G_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1797,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "Pun1_S39L_L345G coding sequence",
+              "length": 1116
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": "S39L + L345G (ESM2 LLR 2.828 + 2.695)"
+        },
+        {
+          "name": "35S::COMT_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1761,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "COMT coding sequence",
+              "length": 1080
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "09",
+      "product_name": "Extinction Protocol",
+      "target_shu": 11000000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_09",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        },
+        {
+          "name": "35S::PAL_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 942,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "PAL coding sequence",
+              "length": 261
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        },
+        {
+          "name": "35S::Pun1_S39L_L345G_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1797,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "Pun1_S39L_L345G coding sequence",
+              "length": 1116
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": "S39L + L345G (ESM2 LLR 2.828 + 2.695)"
+        },
+        {
+          "name": "35S::COMT_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1761,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "COMT coding sequence",
+              "length": 1080
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        }
+      ]
+    },
+    {
+      "product_num": "10",
+      "product_name": "D.N.R. (Do Not Resuscitate)",
+      "target_shu": 13000000,
+      "constructs": [
+        {
+          "name": "pSS-POX-KO_10",
+          "type": "CRISPR knockout construct",
+          "length_bp": 5127,
+          "components": [
+            {
+              "name": "gRNA cassette",
+              "description": "U6::sgRNA targeting LOC107864929",
+              "length": 342
+            },
+            {
+              "name": "Cas9 expression cassette",
+              "description": "CaMV 35S::SpCas9-NLS::NOS terminator",
+              "reference": "Addgene #42230"
+            },
+            {
+              "name": "Selection marker",
+              "description": "nptII (neomycin phosphotransferase II, kanamycin resistance, selection marker)"
+            }
+          ],
+          "notes": "Guide: GTCAATGTTGCATCACAGTG | PAM: TGG | GC: 45.0% | Off-target risk: LOW",
+          "mutations": ""
+        },
+        {
+          "name": "35S::PAL_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 942,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "PAL coding sequence",
+              "length": 261
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        },
+        {
+          "name": "35S::Pun1_triple_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1797,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "Pun1_triple coding sequence",
+              "length": 1116
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": "S39L + L345G + C175S (triple mutant)"
+        },
+        {
+          "name": "35S::COMT_OE",
+          "type": "Overexpression cassette",
+          "length_bp": 1761,
+          "components": [
+            {
+              "name": "Promoter",
+              "description": "CaMV 35S (constitutive)"
+            },
+            {
+              "name": "CDS",
+              "description": "COMT coding sequence",
+              "length": 1080
+            },
+            {
+              "name": "Terminator",
+              "description": "NOS terminator"
+            }
+          ],
+          "notes": "",
+          "mutations": ""
+        }
+      ]
+    }
+  ],
+  "yeast_chassis_genes": [
+    "PAL",
+    "C4H",
+    "4CL",
+    "HCT",
+    "COMT",
+    "BCAT",
+    "KAS",
+    "FAR",
+    "Pun1"
+  ],
+  "total_constructs": 25,
+  "total_sequence_bp": 31911
+}
